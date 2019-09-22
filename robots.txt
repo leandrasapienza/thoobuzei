@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://neekaezohg.rails.net.ua/sitemap.xml
